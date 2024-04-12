@@ -13,6 +13,7 @@ public class JavaVariables {
         System.out.println("number of games I own = " + games);
         System.out.println("My monthly allowance = " + allowance);
         System.out.println("Cost of a single battle pass = " + battlePass);
+        //printing the values stored in the variables with text
     }
    
 }
